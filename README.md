@@ -1,9 +1,5 @@
 # Creating a data warehouse from S3 data
 
-## Project description
-
-Create
-
 ## How to run
 
 1. Install the libraries from the requirements file.
